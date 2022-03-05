@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sukhmeet23
+- 👋 Hi, I’m Sukhmeet Singh
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning MERN Stack Development
 - 💞️ I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.
